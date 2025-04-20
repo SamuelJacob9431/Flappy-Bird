@@ -11,23 +11,19 @@ Flappy Bird with Java for OEP. A Java implementation of the popular Flappy Bird 
 - Restart functionality
 (Working on integrating Sound & Title Screen)
 
-##Controls
+## Controls
 
 1.SPACE BAR: Make the bird jump/flap
 
 2.R KEY: Restart the game after game over
 
-##Code Structure
+## Code Structure
 
-1.FlappyBird class extends JPanel and implements game logic
-
-2.Uses Swing Timer for game loop and pipe generation
-
-3.Custom Bird and Pipe classes to manage game objects
-
-4.Collision detection between bird and pipes
-
-5.Score tracking and display
+- FlappyBird class extends JPanel and implements game logic
+- Uses Swing Timer for game loop and pipe generation
+- Custom Bird and Pipe classes to manage game objects
+- Collision detection between bird and pipes
+- Score tracking and display
 
 ## How to Run
 
